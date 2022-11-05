@@ -1,0 +1,88 @@
+.card-group {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+
+.card1 {
+    margin-left: 5px;
+    margin-right: 5px;
+    border:2px solid DodgerBlue;
+    text-align: center;
+    width: 250px;
+
+
+}
+
+.card2 {
+    border:2px solid rgb(148, 201, 0);
+    text-align: center;
+    width: 250px;
+}
+
+.card3 {
+    border:2px solid rgb(255, 217, 71);
+    margin-left: 5px;
+    text-align: center;
+    width: 250px;
+}
+
+.container-fluid {
+    text-align: center;
+    margin: 1rem;
+}
+
+.footer{
+    background-color: #204564;
+}
+.ul{
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul li{
+    padding: 1rem;
+    text-align: center;
+    width: 1000px;
+
+}
+.ul li a{
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.form{
+    justify-content: center;
+    align-items: center;
+    width: 750px;
+    
+}
+
+.formcontacto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Resumen {
+background-color: #66cf1f;
+width: 100%;
+border: none;
+padding-top: 10px;
+padding-bottom: 10px;
+color: azure;
+}
+
+#Borrar{
+    background-color: #66cf1f;
+width: 100%;
+border: none;
+padding-top: 10px;
+padding-bottom: 10px;
+color: azure;
+}
